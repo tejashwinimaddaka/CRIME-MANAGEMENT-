@@ -1,5 +1,5 @@
 # CRIME MANAGEMENT
-In this project, a database is designed using primary key and foreign key constraints and queries are solved using MS SQL commands and constraints like DDL commands, aggregate functions, joins and sub queries.
+In this project, a lot of queries are sloved using aggregate functions, joins and sub queries.
 ## TABLES
 ### Crime
 • Attributes: 'CrimeID', 'IncidentType', 'IncidentDate', 'Location', 'Description', 'Status'
